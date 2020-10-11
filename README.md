@@ -18,3 +18,7 @@ oruxmaps 오룩스맵 저장소
 - (MS38_127.mbtiles 충주~제천) : https://drive.google.com/file/d/0B4ENZ9O0g-HSc0kxWkpiakpKWEU/view?usp=sharing
 - (MS38_128.mbtiles 제천~속초) : https://drive.google.com/file/d/0B4ENZ9O0g-HSejlmUkNrejBIZDA/view?usp=sharing
 - (MS38_129.mbtiles 울릉~독도) : https://drive.google.com/file/d/0B4ENZ9O0g-HSVFdKVTBXNm1wdkU/view?usp=sharing
+
+# 폰에서 전자지도 로드 이미지
+![폰로드1](오룩스맵1.jpg "오룩스맵1"){: width="100" height="100"}
+![폰로드2](오룩스맵2.jpg "오룩스맵2"){: width="100" height="100"}
