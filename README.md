@@ -1,7 +1,7 @@
 # oruxmaps
 oruxmaps 오룩스맵 저장소
 
-# 구글 드라이브 모바일용 온맵 전자지도 다운로드
+# 구글 드라이브 모바일용 대한민국 온맵 전자지도 다운로드
 - (MS_JEJU.mbtiles  제주도___) : https://drive.google.com/file/d/0B4ENZ9O0g-HSRVUwNHo4Skw0NmM/view?usp=sharing
 - (MS35_124.mbtiles 목포~완도) : https://drive.google.com/file/d/0B4ENZ9O0g-HSMUltaUNfOVd6cjA/view?usp=sharing
 - (MS35_127.mbtiles 보성~남해) : https://drive.google.com/file/d/0B4ENZ9O0g-HSN1kzXzJpdEI3QjA/view?usp=sharing
