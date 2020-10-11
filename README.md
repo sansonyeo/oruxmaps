@@ -19,5 +19,5 @@ oruxmaps 오룩스맵 저장소
 - (MS38_128.mbtiles 제천~속초) : https://drive.google.com/file/d/0B4ENZ9O0g-HSejlmUkNrejBIZDA/view?usp=sharing
 - (MS38_129.mbtiles 울릉~독도) : https://drive.google.com/file/d/0B4ENZ9O0g-HSVFdKVTBXNm1wdkU/view?usp=sharing
 
-# 폰에서 전자지도 로드된 이미지
+# 폰에서 온맵지도 로드된 이미지
 <img src="오룩스맵1.jpg" width="400" height="822">:ski:<img src="오룩스맵2.jpg" width="400" height="822">
