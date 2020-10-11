@@ -20,5 +20,4 @@ oruxmaps 오룩스맵 저장소
 - (MS38_129.mbtiles 울릉~독도) : https://drive.google.com/file/d/0B4ENZ9O0g-HSVFdKVTBXNm1wdkU/view?usp=sharing
 
 # 폰에서 전자지도 로드 이미지
-![폰로드1](오룩스맵1.jpg "오룩스맵1"){: width="100" height="100"}
-![폰로드2](오룩스맵2.jpg "오룩스맵2"){: width="100" height="100"}
+<img src="오룩스맵1.jpg" width="400" height="822"><img src="오룩스맵2.jpg" width="400" height="822">
