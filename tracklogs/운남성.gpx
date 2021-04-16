@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="Dakota 20 Taiwan" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"><metadata><link href="http://www.garmin.com"><text>Garmin International</text></link><time>2010-06-02T17:37:00Z</time></metadata>
+
+<wpt lat="25.8296942" lon="100.5769586"><name>Binchuan Busterminal</name><cmt>Binchuan&#39;s terminal combines minibusses and normal busses. Frequent busses to Dali and Xiangyun, not many to Kunming. Minibusses to Jizhushan leave when full. For details see http://www.yunnanexplorer.com/transport/station/binchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.1072841" lon="100.2580761"><name>Huangping Busterminal</name><cmt>Huangping is a small hub, connecting Binchuan and Heqing. Busses to and from Binchuan however leave from the southern part of town. For details see http://www.yunnanexplorer.com/transport/station/huangping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.109657" lon="99.1610025"><name>Baoshan Southern Busterminal</name><cmt>Baoshan&#39;s southern bus terminal has only regional busses, particularly to destinations in the south. For long-distance destinations go to the main terminal. For details see http://www.yunnanexplorer.com/transport/station/baoshan-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.589174" lon="99.923681"><name>Fengqing Busstation</name><cmt>Fengqing is a small town and the bus station has not really that many departures a day. The main town to reach is Yunxian from which the connections are much better. There are plenty of hotels around the bus station. For details see http://www.yunnanexplorer.com/transport/station/fengqing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5953613" lon="100.2518749"><name>Dali Eastern Busterminal</name><cmt>Dali East serves southeastern destinations such as Midu, Nanjian, Jingdong, but also Wase on the lakes eastern shore. It is a new and efficient terminal. For details see http://www.yunnanexplorer.com/transport/station/dali-east//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5752384" lon="100.222156"><name>Dali Western Busterminal</name><cmt>This bus terminal serves destinations to the east of Dali, such as Yangbi and Yunlong. For details see http://www.yunnanexplorer.com/transport/station/dali-west//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.1028933" lon="100.2608764"><name>Huangping to Binchuan</name><cmt>Busses to Binchuan leave from here For details see http://www.yunnanexplorer.com/transport/station/huangping-binchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.5640977" lon="100.1771593"><name>Heqing Busterminal</name><cmt>Heqing&#39;s bus terminal, at the northern end of town on the western side of the main highway, has very frequent departures to Lijiang and Xiaguan. as well as serving inner-county departures and a few busses to north to Zhongdian and Weixi. For details see http://www.yunnanexplorer.com/transport/station/heqing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.5304098" lon="99.9041748"><name>Jianchuan Busterminal</name><cmt>Jianchuan&#39;s small station is just on the main road. Minibusses to Shaxi leave just outside the station, while minibusses for destinations north go a bit further north from the main road. For details see http://www.yunnanexplorer.com/transport/station/jianchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.2890828" lon="100.8510589"><name>Ninglang Busterminal</name><cmt>Ninglang&#39;s main bus terminal. Minibusses to Lugu Lake leave just outside and drivers will approach you as soon as you arrive. For details see http://www.yunnanexplorer.com/transport/station/ninglang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.8628021" lon="100.2329868"><name>Lijiang Busterminal</name><cmt>Lijiang&#39;s new terminal, south of the old town, combines services of the older stations. For details see http://www.yunnanexplorer.com/transport/station/lijiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.3752714" lon="103.401947"><name>Old Busterminal</name><cmt>The old bus terminal in Mengzi handles destinations inside the county. For details see http://www.yunnanexplorer.com/transport/station/mengzi-old//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.8861488" lon="103.5490018"><name>Jigai Busterminal</name><cmt>A small staging post on the Red River, now eclipsed by the new expressway. For details see http://www.yunnanexplorer.com/transport/station/xingai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4114609" lon="103.4263712"><name>Mile Western Busterminal</name><cmt>A small place right by the entrance to the main highway serves mostly the busses to Kunming and Kaiyuan. Last busses in the afternoon go from here. For details see http://www.yunnanexplorer.com/transport/station/mile-west//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0461307" lon="104.1963528"><name>Qiubei Busterminal</name><cmt>Qiubei is not that well connected and there are only five busses a day to Kunming. For Puzhehei, busses leave a block away from the main road. For details see http://www.yunnanexplorer.com/transport/station/qiubei//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.8874878" lon="104.3125677"><name>Luoping Busterminal</name><cmt>Luoping&#39;s bus station is in the centre of town. Frequent connections to Kunming, Xingyi and Shizong. Minibusses to local destinations (Banqiao, Duoyihe) leave just to the south of it. For details see http://www.yunnanexplorer.com/transport/station/luoping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.8885427" lon="102.5710012"><name>Longpeng</name><cmt>Longpeng does not have a busstation, but many slow busses from Tonghai to Shiping stop here for a while.  For details see http://www.yunnanexplorer.com/transport/station/longpeng//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.3601915" lon="102.5355322"><name>Yuxi Busterminal</name><cmt>Yuxi&#39;s large terminal in the centre of town has very frequent departures to Kunming, Tonghai, Xinping and all other towns in the Yuxi Region. Time to Kunming is about 90 minutes. For details see http://www.yunnanexplorer.com/transport/station/yuxi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1169053" lon="102.7468119"><name>Tonghai Busterminal</name><cmt>Tonghai&#39;s new bus terminal on the side of the main road replaces the small terminal in the centre of town. For details see http://www.yunnanexplorer.com/transport/station/tonghai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4389722" lon="100.137532"><name>Yunxian Busstation</name><cmt>Yunxian is a major connection point on the route from Dali to Lincang. Busses to Lincang leave every thirty minutes. For details see http://www.yunnanexplorer.com/transport/station/yunxian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0499718" lon="100.5233036"><name>Nanjian Busterminal</name><cmt>Nanjian&#39;s old terminal in the centre of town has good connections. For details see http://www.yunnanexplorer.com/transport/station/nanjian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6123618" lon="100.21955"><name>Xiaguan Northern Busterminal</name><cmt>Dali North Busterminal serves mainly connections to the north, such as Lijiang, Xianggelila, Deqin, Weixi and smaller places up north, but also serves some busses to Kunming, Baoshoan and Binchuan. For details see http://www.yunnanexplorer.com/transport/station/dali-north//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6693303" lon="99.9576044"><name>Yangbi Busterminal</name><cmt>Yangbi does not have much of a bus-station as the main destination is just Dali, but there is an early morning bus to Jianchuan as well as a sleeper to Kunming. Transport otherwise is mostly by private minibus. For details see http://www.yunnanexplorer.com/transport/station/yangbi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.1107769" lon="99.1837109"><name>Baoshan Busterminal</name><cmt>Baoshan&#39;s new main busterminal next to the entrance to the expressway has all the busses you are likely to need: to Dali, Kunming, Ruili, Tengchong. The only disadvantage of this station is that it is a bit far from the centre of town and accommodation. For details see http://www.yunnanexplorer.com/transport/station/baoshan-main//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0222236" lon="102.7193337"><name>Nanyao Busterminal</name><cmt>With the reorganization of Kunming&#39;s busterminals Nanyao now serves only interprovincial destinations, such as Guizhou, Guangdong, Hunan, Sichuan, Tibet. There is a however a shuttle service to the new five terminals. For details see http://www.yunnanexplorer.com/transport/station/kunming-nanyao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.709983" lon="102.4824214"><name>Shiping Busterminal</name><cmt>All long-distance busses leave Shiping from this station. A number of short-distance busses leave from the city centre For details see http://www.yunnanexplorer.com/transport/station/shiping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4015884" lon="103.4427166"><name>Mile Busterminal</name><cmt>This terminal serves almost all destinations except for Kunming and Kaiyuan, for which the busses depart close to the main highway. For details see http://www.yunnanexplorer.com/transport/station/mile//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.4834934" lon="100.5522608"><name>Xiangyun Busterminal</name><cmt>Xiangyun&#39;s terminal serves the county as well as Kunming, Dali, Binchuan and Midu/Nanjian For details see http://www.yunnanexplorer.com/transport/station/xiangyun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.01344" lon="102.7443874"><name>Yunnan Tourism Busterminal</name><cmt>Yunnan&#39;s tourism bus terminal has a few departures to main towns in Yunnan (Lijiang, Dali, Chuxiong, Xuanwei, Gejiu), in slightly better busses than from the public bus-terminals, but you really need to book ahead. For details see http://www.yunnanexplorer.com/transport/station/kunming-tourism//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.1590454" lon="101.9022488"><name>Yipinglang Busstation</name><cmt>Yipinglang is a connection hub in Lufeng County, having regular transport to Chuxiong, Lufeng, Heijing and minibusses to the salt works at Yuanyongjing For details see http://www.yunnanexplorer.com/transport/station/yipinglang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.1427483" lon="102.0666575"><name>Lufeng Busterminal</name><cmt>County busterminal with good connections to Kunming (about two hours). No long-distance departures. For details see http://www.yunnanexplorer.com/transport/station/lufeng//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.3756556" lon="101.7448867"><name>Heijing</name><cmt>Heijing does not have a bus-terminal. Busses leave just next to the bridge. Quite a few busses to Lufeng and Chuxiong, which all pass through Yinpinglang. For details see http://www.yunnanexplorer.com/transport/station/heijing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.3353309" lon="101.8574667"><name>Gaofeng Busterminal</name><cmt>Gaofeng&#39;s bus terminal does not actually have any busses: they all leave from the main road in town. There is one bus to Chuxiong in the morning and a few to Lufeng. No busses after 11am, no bus to Heijing, no minibusses. For details see http://www.yunnanexplorer.com/transport/station/gaofeng//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.4875622" lon="98.9150029"><name>Deqin Busterminal</name><cmt>Deqin&#39;s bus station is down the smaller street. It has morning busses to Zhongdian, Yanjing in Tibet, and towards Weixi. There is also a sleeper to Lhasa. For details see http://www.yunnanexplorer.com/transport/station/deqin//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5095027" lon="103.7945795"><name>Qujing Express Bus Terminal</name><cmt>Qujing&#39;s main terminal with departures to all major destinations. For details see http://www.yunnanexplorer.com/transport/station/qujing-express//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6646408" lon="104.2500615"><name>Fuyuan Busterminal</name><cmt>Fuyuan&#39;s busterminal at the southern end of town near the entrance to the expressway has good connections to Qujing, Kunming, Panxian and local destinations. For details see http://www.yunnanexplorer.com/transport/station/fuyuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.375904" lon="104.4575158"><name>Fucun</name><cmt>Fucun does not have a bus station. Instead buses stop in the centre of town where also the minibusses congregate. There are buses every thirty minutes to Fuyuan. For details see http://www.yunnanexplorer.com/transport/station/fucun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.2814498" lon="104.7404337"><name>Weishe Busstation</name><cmt>Weishe&#39;s bus station is just in front of the railway station. Frequent busses to Xingyi. Busses to Fuyuan pass through. For details see http://www.yunnanexplorer.com/transport/station/weishe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.2217143" lon="104.7968942"><name>Gugan</name><cmt>There is only one bus per day leaving from Gugan at 7:30 to Fuyuan. Otherwise sometimes minibusses leave for Weishe, from which there are much better connections. For details see http://www.yunnanexplorer.com/transport/station/gugan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.8818375" lon="100.23263"><name>Lijiang Yuhe Busterminal</name><cmt>A small station north of the old city. It mainly serves busses to Daju. Some busses start here before going to the main terminal. For details see http://www.yunnanexplorer.com/transport/station/lijiang-yuhe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5904841" lon="100.2307175"><name>Xiaguan Expressbus Terminal</name><cmt>Expressbusses to Kunming, Baoshan and Lijiang leave from here, as well as some other expressbusses to Mangshi, Tengchong etc. Normal bus to Yunlong and Xichou. For details see http://www.yunnanexplorer.com/transport/station/xiaguan-express//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.4199192" lon="103.0645334"><name>Duiping Busstation</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/duiping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.8721199" lon="102.2593879"><name>Xichang Busterminal</name><cmt>Modern terminal, which serves most destinations with exception of eastern Liangshan. There is also a train booking office. For details see http://www.yunnanexplorer.com/transport/station/xichang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.8877661" lon="102.26855"><name>Xichang Eastern Busterminal</name><cmt>Terminal serving eastern Liangshan, i.e. Zhaojue, Butuo, Meigu, Leibo For details see http://www.yunnanexplorer.com/transport/station/xichang-east//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.7021804" lon="103.2482653"><name>Jinyang Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/jinyang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.9197494" lon="102.9220979"><name>Qiaojia Microbusterminal</name><cmt>Microbus terminal serving destinations within the county. No fixed timetable available. For details see http://www.yunnanexplorer.com/transport/station/qiaojia//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.3832934" lon="102.5384365"><name>Puge Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/puge//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.908141" lon="98.8667806"><name>Fugong Busterminal</name><cmt>Fugong has regular transport to Liuku and to Gongshan. There is a sleeper bus service to Kunming and to Dali. For details see http://www.yunnanexplorer.com/transport/station/fugong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.01282" lon="98.62484"><name></name><cmt> For details see http://www.yunnanexplorer.com/transport/station/pianma//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.4214954" lon="103.2913702"><name>Huize Busterminal</name><cmt>Huize&#39;s new long distance bus terminal for all transport to Kunming, Zhaotong, Xuanwei, Dongchuan, Qujing etc For details see http://www.yunnanexplorer.com/transport/station/huize//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.4125499" lon="103.2910967"><name>Huize Old Busterminal</name><cmt>Huize&#39;s old bus station now handles local transport within the county, mostly by non-scheduled mini busses. For details see http://www.yunnanexplorer.com/transport/station/huize-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.3379199" lon="103.7059486"><name>Zhengzi Busterminal</name><cmt>Busses towards the west, such as Dashanbao and Yanshan. For details see http://www.yunnanexplorer.com/transport/station/zhaotong-dashanbao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.3442765" lon="103.7183511"><name>Panhe Busterminal</name><cmt>Busses to Panhe and other places north of Zhaotong. For details see http://www.yunnanexplorer.com/transport/station/zhaotong-panhe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.3326779" lon="103.7176752"><name>Nanxiang Busterminal</name><cmt>Busses to Makou, Jinsha, Yongshan and other destinations north of Zhaotong, but outside the county. For details see http://www.yunnanexplorer.com/transport/station/zhaotong-makou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.994307" lon="103.5511968"><name>Huanghua Busstation</name><cmt>Busses and mini busses leave from the central square and not the new and disused bus station below. Only a few busses to Yongshan, but mianbaos are available for hire. For details see http://www.yunnanexplorer.com/transport/station/huanghua//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.8390495" lon="99.7096366"><name>Xianggelila Busterminal</name><cmt>Xianggelila&#39;s big bus-station has services to Kunming, Lijiang, Deqin, Weixi as well as smaller destinations. There are also connections to Sichuan and Tibet. For details see http://www.yunnanexplorer.com/transport/station/zhongdian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.704627" lon="103.379808"><name>Daxing Busstation</name><cmt>Two daily busses to Yongshan, one to Zhaotong, one to Kunming (sleeper); all leaving around 7am in the morning. For details see http://www.yunnanexplorer.com/transport/station/daxing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.6206915" lon="103.30513"><name>Makou Busstation</name><cmt>Two daily busses to Zhaotong, no connection to Daxing or other places along the Yangzi river, no connection to Sichuan. For details see http://www.yunnanexplorer.com/transport/station/makou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.1909582" lon="99.2822884"><name>Weixi Busterminal</name><cmt>Weixi is not very well connected even though busses to Dali now make the journey in five hours. The bus station is in the lower part of town. Minibusses for hire wait outside. For details see http://www.yunnanexplorer.com/transport/station/weixi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.2639625" lon="103.5705399"><name>Leibo Busterminal</name><cmt>All busses leave from here with frequent morning connections to Xichang. For details see http://www.yunnanexplorer.com/transport/station/leibo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.2364131" lon="103.6355352"><name>Yongshan Old Busstation</name><cmt>Inner-county traffic leaves from the sides of the road. For details see http://www.yunnanexplorer.com/transport/station/yongshan-old//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.2447023" lon="103.6417794"><name>Power station workers bus terminal</name><cmt>A workers&#39; shuttle bus open to the public between the Sichuan side of the dam and the Yunnan side. Runs maybe every 30 minutes, Y5. For details see http://www.yunnanexplorer.com/transport/station/yongshan-sichuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4287522" lon="98.5782247"><name></name><cmt>Busses to Ruili and Wanding. For details see http://www.yunnanexplorer.com/transport/station/mangshi-ruili//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.7109897" lon="102.807312"><name>Butuo Busterminal</name><cmt>Regular transport to Xichang, a few busses to Zhaojue, local busses to Tuojue and other destinations For details see http://www.yunnanexplorer.com/transport/station/butuo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.0129299" lon="102.8414511"><name>Zhaojue Busterminal</name><cmt>Connections to Xichang, Butuo, Leibo, Meigu, Chengdu etc. For details see http://www.yunnanexplorer.com/transport/station/zhaojue//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0147037" lon="102.7175545"><name>Kunming New Southern Busterminal</name><cmt>Mostly long-distance sleeper busses, but also short-haul services to Kunyang. For details see http://www.yunnanexplorer.com/transport/station/kunming-xinnan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.7068639" lon="101.8705237"><name>Yuanmou Minibus Station</name><cmt>Minibus station to local destinations. For details see http://www.yunnanexplorer.com/transport/station/yuanmou-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.9584402" lon="101.8817675"><name>Jiangbian Busstop</name><cmt>Busses back to Yuanmou start from the &#39;main&#39; road in town. There are no vehicles for hire in town. For details see http://www.yunnanexplorer.com/transport/station/jiangbian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.8465271" lon="101.7606818"><name>Earth Forest Busstop</name><cmt>Occasional busses going back to Yuanmou, otherwise hope for a passing Mianbao on the road. For details see http://www.yunnanexplorer.com/transport/station/tulin//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.7305938" lon="101.3212609"><name>Dayao Busterminal</name><cmt>County bus terminal with regular connections to Kunming and Chuxiong. For details see http://www.yunnanexplorer.com/transport/station/dayao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5883529" lon="101.2013207"><name>Guanglu Busstop</name><cmt>Regular local bus to Yaoan leaves from the road-side. There are no other bus connections from Guanglu For details see http://www.yunnanexplorer.com/transport/station/guanglu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5081869" lon="101.2492448"><name>Yaoan Busterminal</name><cmt>New Yaoan busterminal on the main road with connections to Kunming, Chuxiong and county destinations. For details see http://www.yunnanexplorer.com/transport/station/yaoan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0420305" lon="101.5278446"><name>Chuxiong Southern Busterminal</name><cmt>Chuxiong&#39;s Southern Busterminal has only busses to Dayao, Yaoan and Kunming. For details see http://www.yunnanexplorer.com/transport/station/chuxiong-nan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.5493057" lon="102.8404426"><name>Tuojue Busstop</name><cmt>Busses returning to Butuo wait here, leaving every 30 minutes during the day. They do not take additional passengers when filled up. For details see http://www.yunnanexplorer.com/transport/station/tuojue//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.2322544" lon="100.2989099"><name>Weishan Busterminal</name><cmt>Weishan&#39;s new terminal on the new fast road to Xiaguan has all local and long distance busses. For details see http://www.yunnanexplorer.com/transport/station/weishan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1126012" lon="99.3785262"><name>Yongkang Busterminal</name><cmt>No direct departures from this station, but you can make reservations for the busses coming from Yongde For details see http://www.yunnanexplorer.com/transport/station/yongkang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1127384" lon="99.3832254"><name>Yongkang Minibus Station</name><cmt>Vehicles to local destinations For details see http://www.yunnanexplorer.com/transport/station/yongkang-miaobao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.9588479" lon="100.1256609"><name>Jiangwei Busstop</name><cmt>Busses to Xiaguan leave every 20 minutes from here. For details see http://www.yunnanexplorer.com/transport/station/jiangwei//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.6312945" lon="102.8329114"><name>Jianshui Busterminal</name><cmt>New terminal a bit outside of town center, with frequent connections to Kunming, Tonghai, Yuanyang, Mengzi, Shiping and local destinations. For details see http://www.yunnanexplorer.com/transport/station/jianshui//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.5582331" lon="99.0804524"><name>Mengding Local Cars</name><cmt>Parking lot for vehicles to local destinations For details see http://www.yunnanexplorer.com/transport/station/mengding-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0286449" lon="98.4850502"><name>Busstation for Houqiao</name><cmt>Busses to Houqiao only from this yard. For details see http://www.yunnanexplorer.com/transport/station/tengchong-houqiao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6871181" lon="97.9740679"><name>Yingjiang East Busstation</name><cmt>Busses from Yingjiang pass through here and you can buy tickets. For details see http://www.yunnanexplorer.com/transport/station/yingjiang-east//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4382223" lon="97.8446889"><name>Mangdong Minibus Station</name><cmt>Busses between Yingjiang and Longchuan stop here. Minibusses to Husa. For details see http://www.yunnanexplorer.com/transport/station/mangdong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4690767" lon="97.8968441"><name>Husa Busstop</name><cmt>Small busses to county town from early morning. For details see http://www.yunnanexplorer.com/transport/station/husa//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.1569017" lon="101.4037442"><name>Zhonghe Busstop</name><cmt>Two or three busses per day to Yongren, one early in the morning, the other about noon. For details see http://www.yunnanexplorer.com/transport/station/zhonghe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0387936" lon="98.4912944"><name>Tengchong Rural Transport Station</name><cmt>Local Busterminal serving towns to the north. Service is surprisingly frequent, but no posted time-tables. For details see http://www.yunnanexplorer.com/transport/station/tengchong-nongcun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0057782" lon="98.4873247"><name>Tengchong Tourist Busterminal</name><cmt>Long-distance busses to Kunming, Baoshan, Xiaguan, Liuku etc. For details see http://www.yunnanexplorer.com/transport/station/tengchong-baoshan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0264673" lon="98.5029888"><name>Tengchong Yingjiang Busterminal</name><cmt>Busses to Lianghe, Yingjiang, Ruili and some other destinations. For details see http://www.yunnanexplorer.com/transport/station/tengchong-yingjiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.7072076" lon="97.9385233"><name>Yingjiang Busterminal</name><cmt>Busses to Tengchong, Lianghe, Mangshi, Ruili, Kunming and some local destinations. For details see http://www.yunnanexplorer.com/transport/station/yingjiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.7120345" lon="97.9300368"><name>Busstop for Kachang and Nabang</name><cmt>Busses to Kachang, Nabang stop here. Also ticket sales office. For details see http://www.yunnanexplorer.com/transport/station/yingjiang-kachang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.7518637" lon="97.5597524"><name>Nabang Busstation</name><cmt>Busses to Yingjiang about every 40 minutes. For details see http://www.yunnanexplorer.com/transport/station/nabang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.2347589" lon="103.6288619"><name>Yongshan New Station</name><cmt>Long-distance bus terminal with connections to Kunming, Yibin, Chengdu etc. For details see http://www.yunnanexplorer.com/transport/station/yongshan-new//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.8558637" lon="101.0978061"><name>Shiyang Busstop</name><cmt>Inconveniently located terminal on the Dayao side of town with departures to Dayao and at least one morning bus to Kunming. For details see http://www.yunnanexplorer.com/transport/station/shiyang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.807626" lon="98.2929182"><name>Lianghe Busterminal</name><cmt>Very regular traffic to Tengchong and Yingjiang, busses to Mangshi and Ruili, but sleeper busses to Kunming pass through from Yingjiang. For details see http://www.yunnanexplorer.com/transport/station/lianghe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9871763" lon="97.7996331"><name>Kachang Busstop</name><cmt>Five busses per day to countytown. For details see http://www.yunnanexplorer.com/transport/station/kachang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.7061195" lon="101.8703626"><name>Yuanmou Busterminal</name><cmt>Long-distance terminal with connections to Kunming, Dayao, Chuxiong, Panzihua. For details see http://www.yunnanexplorer.com/transport/station/yuanmou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.0603056" lon="101.6719973"><name>Yongren Busterminal</name><cmt>Frequent transport to Kunming, Yuanmou, Chuxiong and Panzhihua. Local transport is not as frequent as the posted time-tables indicate. For details see http://www.yunnanexplorer.com/transport/station/yongren//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.0179066" lon="100.7947218"><name>Jinghong Busterminal</name><cmt>This terminal in Jinghong mainly handles the long-distance transport from the city. For details see http://www.yunnanexplorer.com/transport/station/jinghong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.5592961" lon="99.0820992"><name>Mengding Busterminal</name><cmt>Mengding&#39;s terminal has busses to Kunming, Lincang, Yunxian, Gengma, Nansan etc as well as a few local destinations. For details see http://www.yunnanexplorer.com/transport/station/mengding//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0818241" lon="98.0721"><name>Wanding Busterminal</name><cmt>Hourly busses to Mangshi and a number of long-distance busses. To Ruili, minibusses leave on the road every few minutes. For details see http://www.yunnanexplorer.com/transport/station/wanding//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4314897" lon="98.5802793"><name>Mangshi Southern Busterminal</name><cmt>Busses to Baoshan, Tengchong, Yingjiang, Lianghe, Kunming and other long distance destinations. For details see http://www.yunnanexplorer.com/transport/station/mangshi-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0150878" lon="97.8570002"><name>Southern Busterminal</name><cmt>Busses to Kunming, Yingjiang and other long distance destinations. For details see http://www.yunnanexplorer.com/transport/station/ruili-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0212616" lon="97.8600955"><name>Ruili Northern Busterminal</name><cmt>Busses to Mangshi, Longchuan For details see http://www.yunnanexplorer.com/transport/station/ruili-bei//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1951171" lon="97.7943009"><name>Longchuan Minibus Terminal</name><cmt>Short-haul minibusses, including to Ruili and Husa. For details see http://www.yunnanexplorer.com/transport/station/longchuan-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.2611482" lon="98.2720184"><name>Zhefang Busstation</name><cmt>Quite regular busses to Mangshi. Also transport to Manghai on Burmese border, plus other local connections. For details see http://www.yunnanexplorer.com/transport/station/zhefang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.7712591" lon="100.9676151"><name>Puer City Busterminal</name><cmt>Large busterminal with connections to Kunming, Jinghong, all regional county towns For details see http://www.yunnanexplorer.com/transport/station/simao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.7617259" lon="100.9580399"><name>Puer City Southern Busterminal</name><cmt>Busses to Kunming, Jinghong, Lancang, Menglian and other places. Some busses come from the main terminal in town to pick up passengers. For details see http://www.yunnanexplorer.com/transport/station/simao-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.5560459" lon="99.9305248"><name>Lancang Busterminal</name><cmt>Lancang has busses to Jinghong, Lincang, Gengma, Menglian, Kunming and local destinations. For details see http://www.yunnanexplorer.com/transport/station/lancang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.335243" lon="99.5940563"><name>Menglian Busterminal</name><cmt>New main busterminal for Menglian, serving all long-distance destinations. For details see http://www.yunnanexplorer.com/transport/station/menglian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.179609" lon="99.1787567"><name>Meng&#39;a Busterminal</name><cmt>Endpoint for busses from Menglian right next to new border crossing. For details see http://www.yunnanexplorer.com/transport/station/menga//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0599699" lon="101.57305"><name>Jiasa Busterminal</name><cmt>Jiasa is a local transportation hub with a daily bus to Kunming, regular connections to Xinping and busses to Chuxiong, Shuangbai, Yuanjiang. For details see http://www.yunnanexplorer.com/transport/station/gasa//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.84545" lon="101.721038"><name>Mosha Busterminal</name><cmt>Small local station with mostly busses to Xinping. Some busses to Yuanjiang and Gasa. For details see http://www.yunnanexplorer.com/transport/station/mosha//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0178909" lon="99.2581154"><name>Yongde Busterminal</name><cmt>Most busses in Yongde leave in the early morning. Busses go to Lincang, Yunxian, Fengqing, Nansan and Kunming. For details see http://www.yunnanexplorer.com/transport/station/yongde//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0416729" lon="101.5373169"><name>Chuxiong Busterminal</name><cmt>Expressbus station with mostly long distance connections, such as Kunming, Xiaguan, Lincang For details see http://www.yunnanexplorer.com/transport/station/chuxiong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.4247792" lon="101.682887"><name>Mojiang Busterminal</name><cmt>Mojiang&#39;s new terminal is in the new town near the expressway entrance. Busses to all local destinations and up and down the expressway. For details see http://www.yunnanexplorer.com/transport/station/mojiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.629365" lon="105.6306958"><name>Funing Busterminal</name><cmt>Almost all busses leave from the new terminal: Kunming, Wenshan, Guangnan, Malipo, Baise and many sleeper bus destinations in southern China. For details see http://www.yunnanexplorer.com/transport/station/funing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.8866889" lon="106.0803619"><name>Boai Busstop</name><cmt>Busses to Funing and Baise For details see http://www.yunnanexplorer.com/transport/station/boai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.8321051" lon="108.2947738"><name>Nanning Busterminal</name><cmt>Busses to everywhere, many sleeper busses. For details see http://www.yunnanexplorer.com/transport/station/nanning//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.4989115" lon="100.705988"><name>Jinggu Bus Terminal</name><cmt>The small terminal right in the center of town has connections to Kunming, Simao, Zhenyuan, Lincang as well as local destinations. For details see http://www.yunnanexplorer.com/transport/station/jinggu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1743399" lon="102.4019415"><name>Eshan Busses to Kunming</name><cmt>Busses to Kunming, Shiping etc. Timetables unclear For details see http://www.yunnanexplorer.com/transport/station/eshan-kunming//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.601854" lon="102.002645"><name>Yuanjiang Long-distance Busterminal</name><cmt>Long distance destinations from Yuanjiang. For details see http://www.yunnanexplorer.com/transport/station/yuanjiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.596758" lon="101.998451"><name>Yuanjiang Local Busterminal</name><cmt>This terminal serves local destinations. For details see http://www.yunnanexplorer.com/transport/station/yuanjiang-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.4433327" lon="98.5846582"><name>Mangshi Northern Busterminal</name><cmt>Pretty much all the busses from the southern terminal also stop here, ten minutes earlier or later, depending on the direction you are going. For details see http://www.yunnanexplorer.com/transport/station/mangshi-north//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6764191" lon="102.9098652"><name>Chengjiang Busterminal</name><cmt>Busses to Kunming, Yuxi, Tonghai, Huaning. For details see http://www.yunnanexplorer.com/transport/station/chengjiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.199403" lon="101.2792948"><name>Nanhua Busterminal</name><cmt>New terminal by the main road serving Kunming, Chuxiong and local destinations. For details see http://www.yunnanexplorer.com/transport/station/nanhua//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.9069433" lon="106.6127501"><name>Baise Busterminal</name><cmt>Central bus terminal with busses going everywhere in Guangxi and beyong. For Yunnan, busses to Boai, Funing, Wenshan and Kunming start here. One morning bus to Wenshan, regular transport to Funing. For details see http://www.yunnanexplorer.com/transport/station/baise//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.3203334" lon="99.0416372"><name>Mengnuo Busterminal</name><cmt>Busses to Longling and Baoshan. Passing busses to Nansan. For details see http://www.yunnanexplorer.com/transport/station/mengnuo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.3330779" lon="99.5882752"><name>Menglian Rural Transport Station</name><cmt>Menglian&#39;s old bus terminal now serves for rural destinations. For details see http://www.yunnanexplorer.com/transport/station/menglian-nongcun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.534791" lon="99.4032614"><name>Gengma Busterminal</name><cmt>Gengma&#39;s terminal has busses to Kunming, Lincang, Jinghong as well as local destinations. For details see http://www.yunnanexplorer.com/transport/station/gengma//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.379673" lon="104.221748"><name>Wenshan Northern Busterminal</name><cmt>Busses for destinations north of Wenshan: Kunming, Mengzi, Pingyuan, Kaiyuan.;The northern terminal has connections to Kunming, Mengzi, Pingyuan and other destinations north of Wenshan. For details see http://www.yunnanexplorer.com/transport/station/wenshan-north//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.3768519" lon="104.247389"><name>Wenshan Beiqiao Terminal</name><cmt>The old terminal has Kunming, Funing and many sleeper connections. For details see http://www.yunnanexplorer.com/transport/station/wenshan-beiqiao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.3551189" lon="104.2631401"><name>Wenshan Southern Busterminal</name><cmt>Connections to Maguan, Malipo and Xichou county. For details see http://www.yunnanexplorer.com/transport/station/wenshan-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5865087" lon="100.2296021"><name>Dali Expressbus Station</name><cmt>Newly (2010) opened bus station handling traffic to Kunming, Chuxiong, Nanhua, Yongping as well as some other destinations. For details see http://www.yunnanexplorer.com/transport/station/xiaguan-xinzhan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6072289" lon="102.188007"><name>Gaoqiao Busstation</name><cmt>Half-hourly busses to Wuding. Miaobaos to Shilata, Maojie. For details see http://www.yunnanexplorer.com/transport/station/gaoqiao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.3782084" lon="103.6858668"><name>Yongning Busstop</name><cmt>Minibusses back to Luxi when overfull. Apparently no regular traffic south of here. For details see http://www.yunnanexplorer.com/transport/station/yongning//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.7442299" lon="98.66474"><name>Gongshan Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/gongshan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.0521328" lon="105.0578231"><name>Guangnan Busterminal</name><cmt>Long- and short-distance terminal. Also good connections to Guangdong. For details see http://www.yunnanexplorer.com/transport/station/guangnan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.74461" lon="98.6653"><name>Bus to Bingzhongluo</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/gongshan-bingzhongluo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5920329" lon="100.2484846"><name>Dali Railway Station</name><cmt>Dali&#39;s main railway station has the trains to Kunming and Lijiang For details see http://www.yunnanexplorer.com/transport/station/dali-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5705518" lon="100.3190725"><name>Dali East</name><cmt>Dali East is mainly a shunting station. The train to Lijiang currently reverses direction here. For details see http://www.yunnanexplorer.com/transport/station/dali-dong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9110321" lon="104.3136021"><name>Luoping</name><cmt>Luoping is one of the main stops on the Nankun railway, with all trains stopping here. For details see http://www.yunnanexplorer.com/transport/station/luoping-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0603538" lon="102.7197195"><name>Kunming North Railway Station</name><cmt>Once serving the narrow-gauge trains down to Hekou, since its suspension there are no trains from this station. However, there is a good railway museum. For details see http://www.yunnanexplorer.com/transport/station/kunming-bei-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0183866" lon="102.7203214"><name>Kunming</name><cmt>Kunming&#39;s main train station where all trains leave and arrive from. The terminal was completely rebuilt a few years ago, but it is again crowded and not very convenient. For details see http://www.yunnanexplorer.com/transport/station/kunming-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.2832541" lon="104.7401546"><name></name><cmt>Weishe is a railway hub where a branch line from Hongguo joins the Nankun Railway. Some fast trains stop here, otherwise there is a slow train from Kunming to Hongguo making all stops. For details see http://www.yunnanexplorer.com/transport/station/weishe-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5292224" lon="103.7905454"><name>Qujing</name><cmt>Qujing&#39;s busy railway station on the Kunming-Guiyang line. For details see http://www.yunnanexplorer.com/transport/station/qujing-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.2214518" lon="104.717229"><name></name><cmt>The local Hongguo-Kunming train is the only train that stops here. There are no facilities in the village. For details see http://www.yunnanexplorer.com/transport/station/datianba-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.8708415" lon="100.2919148"><name>Lijiang East</name><cmt>Lijiang&#39;s new train station, a few kilometres east of town, currently has only one train in the afternoon to Dali. There are no through trains to Kunming. For details see http://www.yunnanexplorer.com/transport/station/lijiang-dong-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.5591842" lon="100.2156704"><name>Heqing</name><cmt>Even though the Lijiang Dali Railway opened in 2009 Heqing station is not in use yet. For details see http://www.yunnanexplorer.com/transport/station/heqing-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.972332" lon="100.143614"><name>Shangguan</name><cmt>Small station, but the only intermediate stop on the Dali-Lijiang Railway. For details see http://www.yunnanexplorer.com/transport/station/shangguan-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.7414199" lon="101.8406382"><name>Yuanmou</name><cmt>City station where most trains stop. For details see http://www.yunnanexplorer.com/transport/station/yuanmou-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.7957303" lon="99.6821308"><name>Xianggelila Airport</name><cmt>Xianggelila&#39;s airport, a few kilometres from town, has regular flights to Kunming.  For details see http://www.yunnanexplorer.com/transport/station/air-zhongdian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6511209" lon="100.3219986"><name>Dali Airport</name><cmt>Dali&#39;s airport has a few flights to Kunming per day. For details see http://www.yunnanexplorer.com/transport/station/air-dali//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.6721977" lon="100.246318"><name>Lijiang Airport</name><cmt>Lijiang&#39;s busy airport, some 25km south of the city, has many flights to Kunming plus flights to Xishuangbanna and many destinations in China, most connection through Kunming. For details see http://www.yunnanexplorer.com/transport/station/air-lijiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.4195759" lon="100.3972603"><name>Yongping Busstation</name><cmt>Busses back to Jinggu every hour or so, also transport to Lincang and to townships south. For details see http://www.yunnanexplorer.com/transport/station/yongping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.522126" lon="105.543875"><name>Lida Busstop</name><cmt>Scheduled busses returning to Funing until about 6pm For details see http://www.yunnanexplorer.com/transport/station/lida//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.6300441" lon="105.6173375"><name>Funing Minibus Station</name><cmt>Minibusses to Babao and some other places north of Funing For details see http://www.yunnanexplorer.com/transport/station/funing-old//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.0652728" lon="101.0476621"><name>Ninger Busterminal</name><cmt>Good transport to Jinggu and local destinations. Many long-distance busses stop here briefly. For details see http://www.yunnanexplorer.com/transport/station/ninger//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1952003" lon="97.7950358"><name>Longchuan Busterminal</name><cmt>Long-distance bus-terminal for places such as Yingjiang, Mangshi, Kunming For details see http://www.yunnanexplorer.com/transport/station/longchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.1579564" lon="102.7434577"><name>Yuanyang Busterminal</name><cmt>Busses to Kunming, Mengzi, Gejiu etc. For more connections go down to Nansha first. For details see http://www.yunnanexplorer.com/transport/station/yuanyang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.437316" lon="104.6708101"><name>Xichou Busterminal</name><cmt>Connections to Wenshan, Malipo, Guangnan and Kunming. For details see http://www.yunnanexplorer.com/transport/station/xichou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.0186632" lon="104.3902574"><name>Maguan Busterminal</name><cmt>Station in the lower part of town with busses to all destinations. For details see http://www.yunnanexplorer.com/transport/station/maguan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.5908479" lon="101.8565955"><name>Jiangcheng Busterminal</name><cmt>Busses to Simao, Mengla, Lvchun, Mojiang, Kunming and local destinations. For details see http://www.yunnanexplorer.com/transport/station/jiangcheng//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.041655" lon="101.5608874"><name>Chuxiong East Busterminal</name><cmt>Chuxiong East handles traffic to Lufeng, Luquan, Wuding, Heijing and Shuangbai. Also expressbusses to Kunming stop here to pick up passengers. For details see http://www.yunnanexplorer.com/transport/station/chuxiong-east//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0401778" lon="102.7869273"><name>Kunming Eastern Busterminal</name><cmt>Kunming&#39;s new eastern terminal for all the traffic to Wenshan, Honghe, Qujing (Luliang, Shizhong etc). For detailed destinations see http://www.km-ky.com/2010/0208/106.html For details see http://www.yunnanexplorer.com/transport/station/kunming-east//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9322739" lon="102.7764522"><name>Kunming Southern Busterminal</name><cmt>Kunming&#39;s new Southern Busterminal serves destinations reachable via the Yuxi expressway, i.e. Yuxi, Puer and Xishuangbanna. For details see http://www.yunnanexplorer.com/transport/station/kunming-south//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0484749" lon="102.6749825"><name>Xishan Busstop</name><cmt>Busses to Xishan and Haikou For details see http://www.yunnanexplorer.com/transport/station/kunming-xishan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0381253" lon="102.6387298"><name>Kunming Western Areas Busterminal</name><cmt>Busterminal serving Yunnan&#39;s western areas: Dali, Nujiang, Diqing, Dehong, Baoshan, parts of Lincang. The terminal opened in Nov 2009 For details see http://www.yunnanexplorer.com/transport/station/kunming-xibu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.9052019" lon="102.93618"><name>Qiaojia Busterminal</name><cmt>Bus links from Qiaojia remain poor, even though a good road now connects it with Kunming and Zhaotong. For details see http://www.yunnanexplorer.com/transport/station/qiaojiamain//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0961898" lon="102.6634437"><name>Kunming Northwest Busterminal</name><cmt>Busterminal serves destinations northwest of Kunming, such as Yuanmou, Yongren, Fumin, Luquan, Wuding. This terminal replaces the old Huangtupo terminal. For details see http://www.yunnanexplorer.com/transport/station/kunming-northeast//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.6244863" lon="102.9688548"><name>Banqiao Busstop</name><cmt>At least a bus to Kunming starts here, otherwise busses pass from Xundian to Majie. For details see http://www.yunnanexplorer.com/transport/station/banqiao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5485172" lon="103.2626995"><name>Xundian Busterminal</name><cmt>Xundian&#39;s new terminal in the new town has frequent busses to Kunming, Qujing. Local services to Majie, Kedu etc. Also Minibusses to local destinations. For details see http://www.yunnanexplorer.com/transport/station/xundian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.8554716" lon="101.9684857"><name>Daheishan Busterminal</name><cmt>Busses to Lvchun, Jiangcheng and Mojiang. Many busses stop here for a break. For details see http://www.yunnanexplorer.com/transport/station/daheishan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6666503" lon="102.3605321"><name>Bajie Station</name><cmt>Busses back to Anning every hour, some local busses and taxis. For details see http://www.yunnanexplorer.com/transport/station/bajie//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0559149" lon="102.688595"><name>Western Busstation</name><cmt>With the reorganization of Kunming&#39;s busterminals Nanyao now only has a very limited service to Anning. For details see http://www.yunnanexplorer.com/transport/station/kunming-xizhan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9290968" lon="102.4860477"><name>Anning Busterminal</name><cmt>Some longer distance services from here. For details see http://www.yunnanexplorer.com/transport/station/anning//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9240677" lon="102.487946"><name>Anning to Kunming Western Terminal</name><cmt>Busses to Kunming Xizhan, Nanyao and southern busterminal. For details see http://www.yunnanexplorer.com/transport/station/anning-route11//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.1123103" lon="102.7610684"><name>Kunming Northern Busterminal</name><cmt>Kunming&#39;s new Northern Busterminal has all the traffic heading north and northeast out of Kunming on the expressway to Qujing, such as Qujing, Zhaotong, Dongchuan, Huize. For details see http://www.yunnanexplorer.com/transport/station/kunming-north//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.3878549" lon="102.1168693"><name>Nanuo Busstop</name><cmt>Only busses back to Yuanjiang. For details see http://www.yunnanexplorer.com/transport/station/nanuo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.24128" lon="99.29955"><name>Benzilan</name><cmt>Benzilan does not have a terminal, but there a one or two busses to Zhongdian in the morning. Otherwise minibusses are readily available or catch a passing bus to either Zhongdian or Deqin. To go to Derong, you must hire a minibus (about Y200). For details see http://www.yunnanexplorer.com/transport/station/benzilan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5089345" lon="101.2336419"><name>Yaoan Old Busterminal</name><cmt>Now only used for some local departures. For details see http://www.yunnanexplorer.com/transport/station/yaoan-old//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.9359478" lon="101.2552049"><name>Menglun Busterminal</name><cmt>Busses to Jinghong, Mengla, Xiangming. Minibus to Mengxing. For details see http://www.yunnanexplorer.com/transport/station/menglun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.8792448" lon="101.3757919"><name>Mengxing</name><cmt>Crossroads station with minibusses to Menglun and some busses to Mengla and north. For details see http://www.yunnanexplorer.com/transport/station/mengxing//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.191712" lon="101.6890834"><name>Mohan Busstation</name><cmt>Minibusses to Mengla and a number of long distance busses to Jinghong and Kunming For details see http://www.yunnanexplorer.com/transport/station/mohan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.778342" lon="102.6984738"><name>Zhemi Busstation</name><cmt>Only a few busses per day to Jinping. Bus to Laomeng and Luchun pass through. For details see http://www.yunnanexplorer.com/transport/station/zhemi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.366838" lon="102.4210936"><name>Honghe Busterminal</name><cmt>Poorly connected county town with few services. For details see http://www.yunnanexplorer.com/transport/station/honghe//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.4025286" lon="103.1482958"><name>Gejiu Busterminal</name><cmt>Busy station with good long-distance connections. For details see http://www.yunnanexplorer.com/transport/station/gejiu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.6061009" lon="104.3375222"><name>Yanshan Busterminal</name><cmt>Good connected county town with additional busses coming from Wenshan. For details see http://www.yunnanexplorer.com/transport/station/yanshan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.1422062" lon="103.547077"><name>Xinxian Station</name><cmt>Busses to Mengzi and Pingbian and local destinations. For details see http://www.yunnanexplorer.com/transport/station/xinxian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.3249647" lon="103.4385124"><name>Xinansuo</name><cmt>Local bus #4 to Mengzi For details see http://www.yunnanexplorer.com/transport/station/xinansuo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1759215" lon="102.4078304"><name>Eshan Busterminal</name><cmt>Busses to Yuxi and local destinations. For details see http://www.yunnanexplorer.com/transport/station/eshan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.597171" lon="101.5624063"><name>Panzhihua Busterminal</name><cmt>Main bus terminal. For details see http://www.yunnanexplorer.com/transport/station/panzhihua//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.9946792" lon="102.4220097"><name>Luchun Busterminal</name><cmt>Not very well connected county town with few services. For details see http://www.yunnanexplorer.com/transport/station/lvchun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.9896508" lon="103.6832064"><name>Pingbian Local Busterminal</name><cmt>Transport within Pingbian county. For details see http://www.yunnanexplorer.com/transport/station/pingbian-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0471806" lon="102.6955154"><name>Xiaoximen Busterminal</name><cmt>Busses to Anning and Kunyang For details see http://www.yunnanexplorer.com/transport/station/kunming-xiaoximen//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6550284" lon="102.6093057"><name>Kunyang Busterminal</name><cmt>Busses Kunming, Yuxi, Anning. For details see http://www.yunnanexplorer.com/transport/station/kunyang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6781169" lon="102.5944822"><name>Kunyang Local Busterminal</name><cmt>Local Busterminal For details see http://www.yunnanexplorer.com/transport/station/kunyang-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.3625908" lon="102.5395535"><name>Yuxi Western Busterminal</name><cmt>Busses to Xinping, Yimen, Jiangchuan and Chengjiang For details see http://www.yunnanexplorer.com/transport/station/yuxi-west//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.293566" lon="102.7422795"><name>Jiangchuan Busterminal</name><cmt>Main new bus terminal for all destinations. For details see http://www.yunnanexplorer.com/transport/station/jiangchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.7690959" lon="98.8326474"><name>Nansan Busterminal</name><cmt>Modern busterminal in a modern town, but few connections. For details see http://www.yunnanexplorer.com/transport/station/nansan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.8865338" lon="100.0957679"><name>Lincang Busterminal</name><cmt>Long-distance bus terminal serving Kunming and regional destinations. For details see http://www.yunnanexplorer.com/transport/station/lincang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.3525617" lon="100.4870939"><name>Midu Busterminal</name><cmt>Midu&#39;s busses run mainly to Xiaguan and to Kunming. Bizarrely there are no busses to Nanjian or Jingdong: to go there just wait outside the terminal for a passing bus. For details see http://www.yunnanexplorer.com/transport/station/midu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.3425907" lon="100.4894885"><name>Midu Local Busterminal</name><cmt>Local busses. For details see http://www.yunnanexplorer.com/transport/station/midu-local//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.0778298" lon="102.5345739"><name>Tuanjie Busstop</name><cmt>Busses to Kunming For details see http://www.yunnanexplorer.com/transport/station/tuanjie//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.456" lon="101.244"><name>Ejia Busstation</name><cmt>Busses to Chuxiong, Gasa and Jinping For details see http://www.yunnanexplorer.com/transport/station/ejia//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.5082206" lon="103.9620137"><name>Hekou Busterminal</name><cmt>With the opening of the expressway to Mengzi Hekou is now much better connected with travel time to Kunming down to 8 hours. Busses go to Mengzi, Gejiu, Maguan, Wenshan, Jinping, Yuanyang, Jianshui and local destinations. For details see http://www.yunnanexplorer.com/transport/station/hekou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.0812096" lon="103.1797754"><name>Dongchuan Busterminal</name><cmt>Main terminal with frequent busses to Kunming. For details see http://www.yunnanexplorer.com/transport/station/dongchuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="28.632" lon="104.414"><name>Shuifu Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/shuifu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.156264" lon="99.2525372"><name>Cangyuan Busterminal</name><cmt>Poorly connected Cangyuan has only a few busses per day, mostly in the Gengma and Lincang direction. For details see http://www.yunnanexplorer.com/transport/station/cangyuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.7806467" lon="103.2260169"><name>Jinping Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/jinping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.5887874" lon="101.8554546"><name>Jiangcheng Busterminal</name><cmt>Main terminal with connections to Puer, Kunming. For details see http://www.yunnanexplorer.com/transport/station/jiangcheng-main//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.1264992" lon="104.6989284"><name>Malipo Busterminal</name><cmt>Main terminal. For details see http://www.yunnanexplorer.com/transport/station/malipo//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.0491803" lon="99.8275092"><name>Shangyun Busterminal</name><cmt>Shangyun has busses to Lancang. Many other busses stop at the station. For details see http://www.yunnanexplorer.com/transport/station/shangyun//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.5546202" lon="100.4873083"><name>Banqiao</name><cmt>Some busses to Yongsheng, but also two daily busses to Lijiang. For details see http://www.yunnanexplorer.com/transport/station/yongshengbanqiao//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.6228302" lon="100.5585156"><name>Shunzhou</name><cmt>Busses to Yongsheng, busses to Lijiang passing. For details see http://www.yunnanexplorer.com/transport/station/shunzhou//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.379112" lon="103.3671963"><name>Mengzi Busterminal</name><cmt>Mengzi&#39;s new terminal on the western end of town has all the major long-distance busses, but smaller destinations are handled from the old busstation near the train station. For details see http://www.yunnanexplorer.com/transport/station/mengzi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.9573434" lon="100.4454096"><name>Menghai Busterminal</name><cmt>Main Busterminal. For details see http://www.yunnanexplorer.com/transport/station/menghai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.006513" lon="104.0650301"><name>Bazhai Busterminal</name><cmt>A little transport hub with good connections in all directions. For details see http://www.yunnanexplorer.com/transport/station/bazhai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.482" lon="99.8163"><name>Shuangjiang Busterminal</name><cmt>Main terminal with not very good connections. For details see http://www.yunnanexplorer.com/transport/station/shuangjiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.7387297" lon="99.1818714"><name>Shidian Busterminal</name><cmt>Shidian Central Busterminal For details see http://www.yunnanexplorer.com/transport/station/shidian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.9835931" lon="101.4658148"><name>Yiwu Busterminal</name><cmt>Busses to Jinghong and Mengla For details see http://www.yunnanexplorer.com/transport/station/yiwu//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.6705313" lon="102.1646816"><name>Yimen Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/yimen//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.6471199" lon="99.5966262"><name>Ximeng Busterminal</name><cmt>Small bus station with a daily bus to Kunming, several busses to Menglian, Lancang and Puer. There is no direct connection to Lincang. Minibusses to the old county town depart outside when full. For details see http://www.yunnanexplorer.com/transport/station/ximeng//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.9631183" lon="102.7968008"><name>Qujiang Busstation</name><cmt>Busses to Tonghai and Jianshui, at least one direct to Kunming. For details see http://www.yunnanexplorer.com/transport/station/qujiang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.9626018" lon="103.1847942"><name>Xunjiansi</name><cmt>Morning busses to Mile and Kaiyuan, minibus to Pupeng. For details see http://www.yunnanexplorer.com/transport/station/xunjiansi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.1139857" lon="99.9597439"><name>Eryuan Busterminal</name><cmt>Quiet bus station with not many busses. For details see http://www.yunnanexplorer.com/transport/station/eryuan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.47081" lon="103.30103"><name>Mengzi North</name><cmt>New station opened 2013 is terminus of the Yuxi-Mengzi Railway. For details see http://www.yunnanexplorer.com/transport/station/mengzi-bei//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.528559" lon="102.40123"><name>Wuding Busterminal</name><cmt> For details see http://www.yunnanexplorer.com/transport/station/wuding//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5646744" lon="102.4684757"><name>Luquan Busterminal</name><cmt>Regional busses only. For details see http://www.yunnanexplorer.com/transport/station/luquan//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.1187443" lon="102.6674309"><name>Tonghai</name><cmt>New station in 2013 with trains to Yuxi/Kunming and Jianshui/Mengzi. For details see http://www.yunnanexplorer.com/transport/station/tonghai-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.5524342" lon="102.4635615"><name>Luquan Station for Kunming</name><cmt>Busses to Kunming only. For details see http://www.yunnanexplorer.com/transport/station/luquan-kunming//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="23.6619897" lon="102.8697734"><name>Jianshui</name><cmt>New station in 2013 with trains to Tonghai/Yuxi/Kunming and Mengzi. For details see http://www.yunnanexplorer.com/transport/station/jianshui-train//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.3315059" lon="103.7153246"><name>Zhaotong Busterminal</name><cmt>Zhaotong&#39;s main terminal for long distance busses, such as to Kunming, Huize, Yongshan, Daguan. Many sleeper busses to Kunming. For details see http://www.yunnanexplorer.com/transport/station/zhaotong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.4245111" lon="104.8808417"><name>Zhenxiong Busterminal</name><cmt>Transport to Kunming, Guizhou, Sichuan. For details see http://www.yunnanexplorer.com/transport/station/zhenxiong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.8657944" lon="104.2823278"><name>Weining Busterminal</name><cmt>Busses to Guizhou destinations, Xuanwei, Zhaotong, Zhenxiong and Kunming For details see http://www.yunnanexplorer.com/transport/station/weining//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.88303" lon="104.25266"><name>Caohai</name><cmt>On the line from Neijiang to Liupanshui. For details see http://www.yunnanexplorer.com/transport/station/caohai//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.8396417" lon="105.0458917"><name>Weixin Busterminal</name><cmt>Main bus terminal. For details see http://www.yunnanexplorer.com/transport/station/weixin//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.1191944" lon="104.5719194"><name>Hezhang</name><cmt>Transport to Guizhou, Zhenxiong, Weining etc. For details see http://www.yunnanexplorer.com/transport/station/hezhang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.9250145" lon="103.1523574"><name>Yiliang Busterminal</name><cmt>Very frequent busses to Kunming, but good connections to neighbouring towns. For details see http://www.yunnanexplorer.com/transport/station/yiliang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.4183101" lon="100.2209274"><name>Dacang Busstation</name><cmt>Busses to Xiaguan and local busses. For details see http://www.yunnanexplorer.com/transport/station/dacang//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="24.5364996" lon="103.748943"><name>Luxi Busterminal</name><cmt>City busterminal. Frequent connections to Kunming, Mile, Shizong For details see http://www.yunnanexplorer.com/transport/station/luxi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.9900792" lon="103.6843153"><name>Pingbian Busterminal</name><cmt>Longdistance busstation for Kunming, Mengzi, Hekou, Wenshan For details see http://www.yunnanexplorer.com/transport/station/pingbian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="22.63" lon="103.945"><name>Nanxi Busstation</name><cmt>Busses to Hekou, Maguan, Wenshan For details see http://www.yunnanexplorer.com/transport/station/nanxi//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.868585" lon="100.2253978"><name>Busses to Judian, Shigu</name><cmt>Minibusses to Judian, Shigu etc. For details see http://www.yunnanexplorer.com/transport/station/lijiangjudian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.30175" lon="99.6494271"><name>Judian Busses</name><cmt>Mostly minibusses to Lijiang, but also transport to Weixi, Ludian, and Qizong. Bus to Lijiang, Xiaguan. For details see http://www.yunnanexplorer.com/transport/station/judian//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="27.57676" lon="99.5260867"><name>Qizong</name><cmt>Minibusses to Judian, Zhongdian. Passing bus to Weixi, Zhongdian. For details see http://www.yunnanexplorer.com/transport/station/qizong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="26.4596519" lon="99.4210291"><name>Lanping Busterminal</name><cmt>Busses to Kunming, Xiaguan, Liuku, Weixi. Minibusses to local places outside. For details see http://www.yunnanexplorer.com/transport/station/lanping//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="25.885423" lon="99.3691492"><name>Yunlong Busterminal</name><cmt>Yunlong has regular busses to Xiaguan and Lanping, much less frequent busses to Baoshan and Yongping. There is also a direct bus to Kunming. For details see http://www.yunnanexplorer.com/transport/station/yunlong//</cmt><sym>Truck Stop</sym></wpt>
+
+<wpt lat="21.4596" lon="101.5655"><name>Mengla New Busterminal</name><cmt>New busterminal combining all services in Mengla. For details see http://www.yunnanexplorer.com/transport/station/mengla//</cmt><sym>Truck Stop</sym></wpt>
+
+</gpx>

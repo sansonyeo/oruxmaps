@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="camptocamp.org" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.camptocamp.org/summits/38997/fr/el-capitan">
+      <text>Camptocamp.org</text>
+    </link>
+  </metadata>
+    <wpt lat="37.734070" lon="-119.637770">
+        <ele>2307</ele>
+        <name>El Capitan</name>
+  </wpt>
+  </gpx>

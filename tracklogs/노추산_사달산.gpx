@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Mobile Atlas Creator (MOBAC) 1.9.16" version="1.1">
+    <wpt lon="128.73676" lat="37.51939">
+        <name>a</name>
+    </wpt>
+    <wpt lon="128.74844" lat="37.51864">
+        <name>b</name>
+    </wpt>
+    <wpt lon="128.75874" lat="37.51544">
+        <name>c</name>
+    </wpt>
+    <wpt lon="128.75719" lat="37.52395">
+        <name>c</name>
+    </wpt>
+    <wpt lon="128.75856" lat="37.53226">
+        <name>d</name>
+    </wpt>
+    <wpt lon="128.76097" lat="37.53798">
+        <name>e</name>
+    </wpt>
+    <wpt lon="128.76165" lat="37.54186">
+        <name>f</name>
+    </wpt>
+    <wpt lon="128.76655" lat="37.54383">
+        <name>g</name>
+    </wpt>
+    <wpt lon="128.77985" lat="37.54390">
+        <name>h</name>
+    </wpt>
+    <wpt lon="128.78500" lat="37.54111">
+        <name>i</name>
+    </wpt>
+    <wpt lon="128.78800" lat="37.53934">
+        <name>j</name>
+    </wpt>
+    <wpt lon="128.78260" lat="37.53015">
+        <name>k</name>
+    </wpt>
+    <wpt lon="128.77461" lat="37.52749">
+        <name>l</name>
+    </wpt>
+    <wpt lon="128.76723" lat="37.52123">
+        <name>m</name>
+    </wpt>
+    <wpt lon="128.76277" lat="37.51667">
+        <name>n</name>
+    </wpt>
+</gpx>
